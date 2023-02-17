@@ -1,6 +1,6 @@
 {
   "name": "lachie-ga4",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React Google Analytics 4 (that allows gtag URL to be customised)",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
